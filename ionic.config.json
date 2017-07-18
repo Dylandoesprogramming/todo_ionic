@@ -1,5 +1,8 @@
 {
   "name": "todo",
-  "app_id": "",
-  "type": "ionic1"
+  "app_id": "3a90f961",
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
 }
