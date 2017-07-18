@@ -1,1 +1,17 @@
 /* Empty. Add your own CSS if you like */
+*{
+  box-sizing: border-box;
+}
+
+#textBox{
+  border: 5px solid black;
+  padding: 2%;
+  font-size: 2em;
+  text-align: center;
+}
+
+.input{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
